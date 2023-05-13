@@ -1,2 +1,2 @@
 # practice-j2ee-mvc
-In this project, I implemented J2EE Model-View-Controller (MVC) design pattern to develop a user login application.
+In this project, I implemented J2EE Model-View-Controller (MVC) design pattern to develop a user login application. The application prompts users to provide their login credentials and validates them by comparing with the data stored in the database. Upon successful validation, the application displays a success message, and if the provided credentials are incorrect, an error message is shown to the user.
